@@ -11,6 +11,7 @@ const styles = {
         justify-content: space-between;
         align-items: center;
         height: ${HeaderHeight}px;
+        min-height: ${HeaderHeight}px;
         padding: 20px;
         flex-grow: 0;
         border-bottom: solid;

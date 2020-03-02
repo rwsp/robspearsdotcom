@@ -7,11 +7,12 @@ const styles = {
         width: 90vw;
         max-width: 525px;
         display: flex;
-        margin-bottom: 30px;
+        align-items: center;
+        height: 120px;
+        min-height: 120px;
 
-            border-bottom: solid;
-            border-color: black;
-            padding-bottom: 30px;
+        border-bottom: solid;
+        border-color: black;
         
 
     `,
